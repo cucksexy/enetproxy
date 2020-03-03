@@ -4,7 +4,7 @@
 #include "packet.h"
 #include "utils.h"
 
-std::string gt::version = "3.02";
+std::string gt::version = "3.021";
 std::string gt::flag = "mv";
 bool gt::resolving_uid2 = false;
 bool gt::connecting = false;
